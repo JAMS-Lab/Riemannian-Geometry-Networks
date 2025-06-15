@@ -1,6 +1,6 @@
 # 🧠 Riemannian Neural Network for Multiclass Motor Imagery EEG Classification
 
-This repository provides the official implementation of our multiclass classification framework for motor imagery (MI) EEG data, combining Riemannian geometry with neural networks.
+This repository provides the implementation of our multiclass classification framework for motor imagery (MI) EEG data, combining Riemannian geometry with neural networks.
 
 ## 🔍 Overview
 
